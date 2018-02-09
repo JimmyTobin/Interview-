@@ -1,0 +1,32 @@
+/* this is my style sheet */
+
+body {
+	background-color: #425ff4;
+	padding: 0;
+	margin:0;
+	background-image: url("../images/blue-texture-background.jpg");
+}
+
+
+
+	
+h1{ font-family: 'Gloria Hallelujah', cursive;
+	text-align: center;
+	color:#42dff4;
+	background-color: #f44141 ;
+	margin:0;
+	height:150px;
+
+}
+
+#TopPic{
+
+	text-align: center;
+	/*background-image: url("../images/blue-texture-background.jpg"); */
+}
+
+#para1{
+
+	background-color: #5c209b;
+	color: blue;
+}
